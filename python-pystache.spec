@@ -8,6 +8,7 @@ Source0:	https://pypi.python.org/packages/source/p/pystache/%{module}-%{version}
 License:	ISC
 Group:		Development/Python
 Url:		https://github.com/markokr/pystache/
+BuildRequires:	python-setuptools
 BuildArch:	noarch
 
 %description
