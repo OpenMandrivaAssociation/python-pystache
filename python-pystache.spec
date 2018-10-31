@@ -3,7 +3,7 @@
 Summary:	Mustache for Python
 Name:		python-%{module}
 Version:	0.5.4
-Release:	1
+Release:	2
 Source0:	https://pypi.python.org/packages/source/p/pystache/%{module}-%{version}.tar.gz
 License:	ISC
 Group:		Development/Python
