@@ -3,7 +3,7 @@
 Summary:	Mustache for Python
 Name:		python-%{module}
 Version:	0.6.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/3f/e7/8750ba6c6101d6aa5ceeb20c013adf2c6f3554a12c71d75654b468404bfa/pystache-0.6.0.tar.gz
 License:	ISC
 Group:		Development/Python
