@@ -2,9 +2,9 @@
 
 Summary:	Mustache for Python
 Name:		python-%{module}
-Version:	0.6.0
-Release:	5
-Source0:	https://files.pythonhosted.org/packages/3f/e7/8750ba6c6101d6aa5ceeb20c013adf2c6f3554a12c71d75654b468404bfa/pystache-0.6.0.tar.gz
+Version:	0.6.8
+Release:	1
+Source0:	https://files.pythonhosted.org/packages/3f/e7/8750ba6c6101d6aa5ceeb20c013adf2c6f3554a12c71d75654b468404bfa/pystache-0.6.8.tar.gz
 License:	ISC
 Group:		Development/Python
 Url:		https://github.com/markokr/pystache/
@@ -15,7 +15,7 @@ BuildArch:	noarch
 Mustache for Python
 
 %prep
-%setup -q -n %{module}-%{version}
+%setup -q -n pystache-0.6.8
 
 %build
 %__python setup.py build 
